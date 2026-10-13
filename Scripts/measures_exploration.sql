@@ -1,14 +1,13 @@
 /*
 ===============================================================================
-Magnitude Analysis
+Measures Exploration (Key Metrics)
 ===============================================================================
 Purpose:
-    - To quantify data and group results by specific dimensions.
-    - For understanding data distribution across categories.
+    - To calculate aggregated metrics (e.g., totals, averages) for quick insights.
+    - To identify overall trends or spot anomalies.
 
 SQL Functions Used:
-    - Aggregate Functions: SUM(), COUNT(), AVG()
-    - GROUP BY, ORDER BY
+    - COUNT(), SUM(), AVG()
 ===============================================================================
 */
 
