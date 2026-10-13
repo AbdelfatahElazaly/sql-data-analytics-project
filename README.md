@@ -8,4 +8,4 @@ This repository contains a structured collection of SQL scripts, data modeling p
 
 Let's stay in touch! Feel free to connect with me on LinkedIn:
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelfatah-elazaly-235b39300/))
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelfatah-elazaly-235b39300/)
